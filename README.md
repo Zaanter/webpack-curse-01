@@ -15,15 +15,15 @@
 
 ### Librerías utilizadas:
 
-(React)
 - react | react-dom -S
-(Webpack)
+(React)
 - webpack | webpack-cli | webpack-dev-server | webpack-bundle-analyzer -D
-(Babel)
+(Webpack)
 - @babel/core | @babel/preset-env | @babel/preset-react | @babel/preset-loader -D
-(Css)
+(Babel)
 - mini-css-extract | css-loader | sass | sass-loader | styles-loader -D
-(Optimization)
+(Css)
 - css-minimizer-webpack-plugin | terser-webpack-plugin | clean-webpack-plugin -D 
-(Other plugins)
+(Optimization)
 - dotenv-webpack | url-loader | file-loader | copy-webpack-plugin
+(Other plugins)
