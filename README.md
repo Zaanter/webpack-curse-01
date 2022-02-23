@@ -22,3 +22,5 @@
 - (Optimization)  -> css-minimizer-webpack-plugin | terser-webpack-plugin | clean-webpack-plugin -D 
 - (Other plugins) -> dotenv-webpack | url-loader | file-loader | copy-webpack-plugin
 
+### Información Útil (Externo):
+- https://www.notion.so/Curso-de-Webpack-797d35d9af4a4c13b5ddfa3160e953ed
